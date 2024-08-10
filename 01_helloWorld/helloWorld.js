@@ -1,5 +1,6 @@
 const helloWorld = function() {
-  return ''
+  // Expected: "Hello, World!"
+  return 'Hello, World!'
 };
 
 module.exports = helloWorld;
